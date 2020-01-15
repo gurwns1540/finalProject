@@ -14,6 +14,7 @@
 		<section class="container">
 		<br />
 		메인컨테이너 입니다.
+		<a href="WEB-INF/views/main/adminMain.jsp">어드민</a>
 		<br />
 		</section>  <!-- container end -->
 		<%@ include file="WEB-INF/views/common/footer.jsp" %>
